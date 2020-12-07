@@ -6,7 +6,7 @@ You are given dataset of Pima India Diabetes Dataset (PIDD) in file Diabetes.csv
 3. Row 1 to line 307 plus lines 462 to 768 as a training set and the others as a testing set;
 4. Row 1 to line 154 plus lines 308 to 768 as a training set and the others as a testing set; and
 5. Lines 155 to 768 as training sets and the others as testing sets.
-Analyze, design, and implement the k-nearest neighbor (kNN) algorithm into a computer program. Select and estimate the kNN model using 5-fold cross-validation which produces the highest accuracy.
-Output of the system:
+\Analyze, design, and implement the k-nearest neighbor (kNN) algorithm into a computer program. Select and estimate the kNN model using 5-fold cross-validation which produces the highest accuracy.
+\Output of the system:
 * Best k value of kNN learning; and
 * Average accuracy of kNN using 5-fold cross-validation.
